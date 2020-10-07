@@ -1,0 +1,21 @@
+body
+{
+	width:50%;
+	margin:auto;
+
+	background-color:white;
+}
+.b
+{
+	width:20%;
+	background-color: red;
+	color:yellow;
+}
+.a:hover
+{
+	background-color: red;
+	font-size: 30%;
+
+}
+
+
